@@ -1,0 +1,16 @@
+{
+  "name": "true_scrapper",
+  "version": "1.0.0",
+  "description": "scrape truemd and create database",
+  "main": "scrape.js",
+  "dependencies": {
+    "mongoose": "^4.4.15",
+    "request-promise": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vinit mav",
+  "license": "ISC"
+}
